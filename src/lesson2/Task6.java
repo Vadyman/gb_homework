@@ -8,7 +8,6 @@ public class Task6 {
         System.out.println("Результат сравнения 2х частей массива array: " + checkBalance(array));
         System.out.println("Результат сравнения 2х частей массива array2: " + checkBalance(array2));
 
-
     }
 
     public static boolean checkBalance(int[] array) {

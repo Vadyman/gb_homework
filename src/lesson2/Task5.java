@@ -16,7 +16,6 @@ public class Task5 {
                 minarr = array[i];
             }
         }
-
         System.out.println(maxarr);
         System.out.println(minarr);
     }

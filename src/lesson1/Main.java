@@ -1,4 +1,4 @@
-package ru.geekbrains.gb_homework_java;
+package lesson1;
 
 public class Main {
 

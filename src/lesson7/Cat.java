@@ -25,7 +25,7 @@ public class Cat {
     }
 
     public boolean eat(Plate plate) {
-        if (plate.decreaseFood(appetite) && !satiety ) {
+        if (!satiety && plate.decreaseFood(appetite)) {
             satiety = true;
             return true;
         }
